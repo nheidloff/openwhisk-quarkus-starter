@@ -1,6 +1,6 @@
-# Apache OpenWhisk Quarkus Starter
+# Serverless Java Functions via Quarkus for Apache OpenWhisk
 
-This project contains a simple sample how to use [Quarkux](https://quarkus.io/) to build functions for the serverless platform [Apache OpenWhisk](https://openwhisk.apache.org/).
+This project contains a simple sample how to use [Quarkus](https://quarkus.io/) to build functions for the serverless platform [Apache OpenWhisk](https://openwhisk.apache.org/).
 
 **Download project**
 
