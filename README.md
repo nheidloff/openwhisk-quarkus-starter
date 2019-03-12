@@ -29,7 +29,7 @@ Create the OpenWhisk function:
 
 ```
 ibmcloud login
-ibmcloud fn action create echo-quarkus --docker nheidloff/quarkus-serverless:1
+ibmcloud fn action create echo-quarkus --docker nheidloff/quarkus-serverless:1 -m 128
 ```
 
 Invoke the OpenWhisk function:
