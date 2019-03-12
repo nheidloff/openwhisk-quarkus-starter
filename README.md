@@ -25,6 +25,14 @@ $ curl --request POST \
   --data '{"value":{"name":"Niklas"}}'
 ```
 
+Develop the function locally:
+
+In order to change the implementation of the sample function, use your favorite Java IDE or text editor. When you run the following command, the application will be updated automatically every time you save a file:
+
+```
+mvn compile quarkus:dev
+```
+
 Create the OpenWhisk function:
 
 ```
